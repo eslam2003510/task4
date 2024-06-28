@@ -337,10 +337,10 @@ span{
     background: url(../image/10.png);
 }
 .pi4{
-    background: url(/image/11.png);
+    background: url(../image/11.png);
 }
 .pi5{
-    background: url(/image/12.png);
+    background: url(../image/12.png);
 }
 .portfolio-iteam::before{
     width: 100%;
@@ -507,7 +507,7 @@ text-align: left;
 .who-us-page{
     width: 100vw;
     height: 145vh;
-    background: url(/image/14.png) ;
+    background: url(../image/14.png) ;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
