@@ -181,7 +181,7 @@ h1, h2, h3, h4{
 .about-page{
     height: 100vh;
     width: 100;
-    background: url(/image/3.jpg);
+    background: url(../image/3.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -321,20 +321,20 @@ span{
     position: relative;
 }
 .pi1,.pi2,.pi3,.pi4,.pi5,.pi6{
-    background: url(/image/7.png);
+    background: url(../image/7.png);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
     border:2px solid #662D91;
 }
 .pi6{
-    background: url(/image/8.png);
+    background: url(../image/8.png);
 }
 .pi2{
-    background: url(/image/9.png);
+    background: url(../image/9.png);
 }
 .pi3{
-    background: url(/image/10.png);
+    background: url(../image/10.png);
 }
 .pi4{
     background: url(/image/11.png);
@@ -405,7 +405,7 @@ span{
 .Services-page{
     width: 100vw;
     height: 100vh;
-    background: url(/image/13.jpg);
+    background: url(../image/13.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -534,7 +534,7 @@ text-align: left;
 .who-imge-continer{
     width: 70%;
     height: 90%;
-    background: url(/image/15.png);
+    background: url(../image/15.png);
     margin: auto;
     background-position: top;
     background-size: cover;
@@ -599,7 +599,7 @@ text-align: left;
 /* =============================================who-us-page-end========================== */
 /* =========================================prices-page-start-======================= */
 .prices-page{
-    background: url(/image/16.png);
+    background: url(../image/16.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -738,10 +738,10 @@ text-align: left;
     color: #8BC53E;
 }
 .oi1{
-    background: url(/image/17.png) center /cover ;
+    background: url(../image/17.png) center /cover ;
 }
 .oi2{
-    background: url(/image/20.png) center /cover ;
+    background: url(../image/20.png) center /cover ;
 }
 /* -------------------------------------team-page-start------------------ */
 /* ---------------------------------team-continet-------------------------- */
@@ -810,13 +810,13 @@ color: #662D91;
     display: flex;
 }
 .ti1{
-    background: url(/image/18.png) center / cover;
+    background: url(../image/18.png) center / cover;
 }
 .ti2{
-    background: url(/image/19.png) center / cover;
+    background: url(../image/19.png) center / cover;
 }
 .ti3{
-    background: url(/image/20.png) center / cover;
+    background: url(../image/20.png) center / cover;
 }
 .team-icon{
     display: block;
@@ -908,13 +908,13 @@ color: #662D91;
     display: flex;
 }
 .bi1{
-    background: url(/image/11.png) center / cover;
+    background: url(../image/11.png) center / cover;
 }
 .bi2{
-    background: url(/image/10.png) center / cover;
+    background: url(../image/10.png) center / cover;
 }
 .bi3{
-    background: url(/image/12.png) center / cover;
+    background: url(../image/12.png) center / cover;
 }
 .blog-text{
     padding: 7px 15px 30px 15px;
